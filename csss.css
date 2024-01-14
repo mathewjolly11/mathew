@@ -1,0 +1,23 @@
+
+
+body {
+    
+    outline:5px solid black ;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.s4{
+
+    padding-left: 60px;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    background-color: rgb(237, 0, 237);
+    display: flex;
+justify-content: center;
+justify-content: space-evenly;
+
+}
