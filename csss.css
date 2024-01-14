@@ -1,10 +1,14 @@
 
 
 body {
-    
+    background-image:url(./pexels-fwstudio-129731.jpg);
+    background-size: auto;
     outline:5px solid black ;
     padding-left: 50px;
     padding-top: 50px;
+    margin-bottom: 1000px;
+    border-top: 50px;
+    
 }
 
 .s4{
@@ -15,9 +19,11 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 nav{
-    background-color: rgb(237, 0, 237);
+    background-color: FFECD6;
     display: flex;
 justify-content: center;
 justify-content: space-evenly;
+font-size: smaller;
 
+font-family: Arial, Helvetica, sans-serif;
 }
